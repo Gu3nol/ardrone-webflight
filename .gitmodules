@@ -1,0 +1,18 @@
+[submodule "plugins/webflight-copterface"]
+	path = plugins/webflight-copterface
+	url = git@github.com:eschnou/webflight-copterface.git
+[submodule "plugins/webflight-onscreen-keyboard"]
+	path = plugins/webflight-onscreen-keyboard
+	url = git@github.com:andrew/webflight-onscreen-keyboard.git
+[submodule "copterface"]
+	path = copterface
+	url = git@github.com:eschnou/webflight-copterface.git
+[submodule "onscreen-keyboard"]
+	path = onscreen-keyboard
+	url = git@github.com:andrew/webflight-onscreen-keyboard.git
+[submodule "plugins/copterface"]
+	path = plugins/copterface
+	url = git@github.com:eschnou/webflight-copterface.git
+[submodule "plugins/onscreen-keyboard"]
+	path = plugins/onscreen-keyboard
+	url = git@github.com:andrew/webflight-onscreen-keyboard.git
